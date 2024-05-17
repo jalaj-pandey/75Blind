@@ -1,4 +1,4 @@
-public class Solution {
+class Solution {
     public int maxSubArray(int[] nums) {
        long cs = 0;
        long ms = Integer.MIN_VALUE;
